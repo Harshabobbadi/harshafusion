@@ -76,14 +76,14 @@
 
 
   const works = [
-    { id:"i3DkxAKdAL4", title:"Wealth & Finance Brand",    category:"Real Estate",           tag:"Real Estate",              desc:"Finance content edited for attention. Fast cuts, clear messaging, hooks that actually work." },
-    { id:"1EIiz5cqtoI", title:"Luxury Property Group",     category:"Personal Brands",           tag:"Personal Brands",          desc:"Property showcase reels that feel worth watching. Clean edits built for a high-end audience." },
-    { id:"ko3Rsa8DEOI", title:"Property Investment Co.",   category:"Personal Brands",           tag:"Personal Brands",          desc:"Educational real estate content that builds trust and gets people to take action." },
-    { id:"fViDDWARY-s", title:"Executive Coach & Founder", category:"Before & After",   tag:"Before & After",  desc:"Content for a business coach that positions them as an authority, not just fills their feed." },
-    { id:"I57iVckFBdE", title:"Business Owner Podcast",   category:"Before & After",   tag:"Before & After",  desc:"Podcast clip edited for short-form. Trimmed to the point, hooks in fast." },
-    { id:"zIHQo7PFJ9M", title:"Personal Project Vol. I",  category:"Luxury Projects",              tag:"Luxury Projects",             desc:"A personal edit focused on pacing and colour. Just me seeing what I can do." },
-    { id:"93KP4Q18gRg", title:"Personal Project Vol. II", category:"Luxury Projects",              tag:"Luxury Projects",             desc:"Testing hook formats and motion styles. Short-form but cinematic." },
-    { id:"ungG7KUp3Dc", title:"Personal Project Vol. III",category:"Luxury Projects",              tag:"Luxury Projects",             desc:"Cuts, transitions, sound design. A look at my editing range." },
+    { id:"i3DkxAKdAL", title:"Wealth & Finance Brand",    category:"Real Estate",           tag:"Real Estate",              desc:"Finance content edited for attention. Fast cuts, clear messaging, hooks that actually work." },
+    { id:"1EIiz5cqto", title:"Luxury Property Group",     category:"Personal Brands",           tag:"Personal Brands",          desc:"Property showcase reels that feel worth watching. Clean edits built for a high-end audience." },
+    { id:"ko3Rsa8DEO", title:"Property Investment Co.",   category:"Personal Brands",           tag:"Personal Brands",          desc:"Educational real estate content that builds trust and gets people to take action." },
+    { id:"fViDDWARY-", title:"Executive Coach & Founder", category:"Before & After",   tag:"Before & After",  desc:"Content for a business coach that positions them as an authority, not just fills their feed." },
+    { id:"I57iVckFBd", title:"Business Owner Podcast",   category:"Before & After",   tag:"Before & After",  desc:"Podcast clip edited for short-form. Trimmed to the point, hooks in fast." },
+    { id:"zIHQo7PFJ9", title:"Personal Project Vol. I",  category:"Luxury Projects",              tag:"Luxury Projects",             desc:"A personal edit focused on pacing and colour. Just me seeing what I can do." },
+    { id:"93KP4Q18gR", title:"Personal Project Vol. II", category:"Luxury Projects",              tag:"Luxury Projects",             desc:"Testing hook formats and motion styles. Short-form but cinematic." },
+    { id:"ungG7KUp3D", title:"Personal Project Vol. III",category:"Luxury Projects",              tag:"Luxury Projects",             desc:"Cuts, transitions, sound design. A look at my editing range." },
   ];
 
   function buildCards(filter) {
