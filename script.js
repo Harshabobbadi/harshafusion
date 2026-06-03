@@ -84,6 +84,7 @@
     { id:"zIHQo7PFJ9", title:"Personal Project Vol. I",  category:"Luxury Projects",              tag:"Luxury Projects",             desc:"A personal edit focused on pacing and colour. Just me seeing what I can do." },
     { id:"93KP4Q18gR", title:"Personal Project Vol. II", category:"Luxury Projects",              tag:"Luxury Projects",             desc:"Testing hook formats and motion styles. Short-form but cinematic." },
     { id:"ungG7KUp3D", title:"Personal Project Vol. III",category:"Luxury Projects",              tag:"Luxury Projects",             desc:"Cuts, transitions, sound design. A look at my editing range." },
+    { id:"rAw4_aOzhHI", title:"Personal Project Vol. III",category:"Luxury Projects",              tag:"Luxury Projects",             desc:"Cuts, transitions, sound design. A look at my editing range." },
   ];
 
   function buildCards(filter) {
