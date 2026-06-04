@@ -77,7 +77,7 @@
 
   const works = [
     { id:"i3DkxAKdAL", title:"Wealth & Finance Brand",    category:"Real Estate",           tag:"Real Estate",              desc:"Finance content edited for attention. Fast cuts, clear messaging, hooks that actually work." },
-    { id:"1EIiz5cqto", title:"Luxury Property Group",     category:"Personal Brands",           tag:"Personal Brands",          desc:"Property showcase reels that feel worth watching. Clean edits built for a high-end audience." },
+    { id:"0JAgy7ioM1I", title:"Luxury Property Group",     category:"Personal Brands",           tag:"Personal Brands",          desc:"Property showcase reels that feel worth watching. Clean edits built for a high-end audience." },
     { id:"ko3Rsa8DEO", title:"Property Investment Co.",   category:"Personal Brands",           tag:"Personal Brands",          desc:"Educational real estate content that builds trust and gets people to take action." },
     { id:"fViDDWARY-", title:"Executive Coach & Founder", category:"Before & After",   tag:"Before & After",  desc:"Content for a business coach that positions them as an authority, not just fills their feed." },
     { id:"I57iVckFBd", title:"Business Owner Podcast",   category:"Before & After",   tag:"Before & After",  desc:"Podcast clip edited for short-form. Trimmed to the point, hooks in fast." },
