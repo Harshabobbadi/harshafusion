@@ -76,14 +76,14 @@
 
 
   const works = [
-    { id:"i3DkxAKdAL", title:"Wealth & Finance Brand",    category:"Real Estate",           tag:"Real Estate",              desc:"Finance content edited for attention. Fast cuts, clear messaging, hooks that actually work." },
-    { id:"daab2ZKxzy", title:"Luxury Property Group",     category:"Personal Brands",           tag:"Personal Brands",          desc:"Property showcase reels that feel worth watching. Clean edits built for a high-end audience." },
-    { id:"ko3Rsa8DEO", title:"Property Investment Co.",   category:"Personal Brands",           tag:"Personal Brands",          desc:"Educational real estate content that builds trust and gets people to take action." },
-    { id:"fViDDWARY-", title:"Executive Coach & Founder", category:"Before & After",   tag:"Before & After",  desc:"Content for a business coach that positions them as an authority, not just fills their feed." },
-    { id:"I57iVckFBd", title:"Business Owner Podcast",   category:"Before & After",   tag:"Before & After",  desc:"Podcast clip edited for short-form. Trimmed to the point, hooks in fast." },
-    { id:"zIHQo7PFJ9", title:"Personal Project Vol. I",  category:"Luxury Projects",              tag:"Luxury Projects",             desc:"A personal edit focused on pacing and colour. Just me seeing what I can do." },
-    { id:"93KP4Q18gR", title:"Personal Project Vol. II", category:"Luxury Projects",              tag:"Luxury Projects",             desc:"Testing hook formats and motion styles. Short-form but cinematic." },
-    { id:"ungG7KUp3D", title:"Personal Project Vol. III",category:"Luxury Projects",              tag:"Luxury Projects",             desc:"Cuts, transitions, sound design. A look at my editing range." },
+    { id:"i3DkxAKdAL", title:"Real Estate ",    category:"Real Estate",           tag:"Real Estate",              desc:"Real estate content edited for impact: scroll-stopping hooks, high-energy pacing, and high-value property insights that convert views into leads." },
+    { id:"i3DkxAKdAL", title:"Real Estate ",    category:"Real Estate",           tag:"Real Estate",              desc:"High-conversion property video: fast-paced listing tours, scroll-stopping real estate hooks, and clear market insights designed to turn views into open-house bookings." },
+    { id:"daab2ZKxzy", title:"Personal Brands",     category:"Personal Brands",           tag:"Personal Brands",          desc:"High-retention finance editing with fast cuts, sharp hooks, and messaging that builds personal brands." },
+    { id:"ko3Rsa8DEO", title:"Personal Brands",   category:"Personal Brands",           tag:"Personal Brands",          desc:"Fast-paced, high-hook finance editing engineered to turn casual viewers into personal brand assets." },
+    { id:"fViDDWARY-", title:"Ads & Marketing", category:"Ads & Marketing",   tag:"Ads & Marketing",  desc:"Content for a business coach that positions them as an authority, not just fills their feed." },
+    { id:"I57iVckFBd", title:"Ads & Marketing",   category:"Ads & Marketing",   tag:"Ads & Marketing",  desc:"hyper-engaging content built with high-retention hooks and fast cuts to skyrocket your views and revenue." },
+    { id:"zIHQo7PFJ9", title:"Luxury Projects",  category:"Luxury Projects",              tag:"Luxury Projects",             desc:"High-retention, precision-edited content designed to capture and hold the attention of ultra-high-net-worth investors." },
+    { id:"93KP4Q18gR", title:"Luxury Projects", category:"Luxury Projects",              tag:"Luxury Projects",             desc:"High-impact, rapid-cadence storytelling engineered exclusively for the modern luxury investor." },
   ];
 
   function buildCards(filter) {
