@@ -81,9 +81,8 @@
     { id:"daab2ZKxzyU", title:"Personal Brands",     category:"Personal Brands",           tag:"Personal Brands",          desc:"High-retention finance editing with fast cuts, sharp hooks, and messaging that builds personal brands." },
     { id:"iVoQZneNLvc", title:"Personal Brands",   category:"Personal Brands",           tag:"Personal Brands",          desc:"Fast-paced, high-hook finance editing engineered to turn casual viewers into personal brand assets." },
     { id:"0lTEAg-Kx-U", title:"Ads & Marketing", category:"Ads & Marketing",   tag:"Ads & Marketing",  desc:"Content for a business coach that positions them as an authority, not just fills their feed." },
-    { id:"", title:"Ads & Marketing",   category:"Ads & Marketing",   tag:"Ads & Marketing",  desc:"hyper-engaging content built with high-retention hooks and fast cuts to skyrocket your views and revenue." },
-    { id:"3aMG0McFzcU", title:"Motion Graphics",  category:"Motion Graphics",              tag:"Motion Graphics",             desc:"High-retention, precision-edited content designed to capture and hold the attention of ultra-high-net-worth investors." },
-    { id:"93KP4Q18gR", title:"Motion Graphics", category:"Motion Graphics",              tag:"Motion Graphics",             desc:"High-impact, rapid-cadence storytelling engineered exclusively for the modern luxury investor." },
+    { id:"3aMG0McFzcU", title:"Motion Graphics",  category:"Motion Graphics",              tag:"Motion Graphics",             desc:"motion graphic reel made with subtle sound design"},
+    { id:"", title:"Motion Graphics", category:"Motion Graphics",              tag:"Motion Graphics",             desc:"clean motion design with smooth visuals" },
   ];
 
   function buildCards(filter) {
